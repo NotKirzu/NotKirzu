@@ -1,5 +1,7 @@
 <a href="#" title="Stats">
-	<img width="70%" align="center" alt="GitHub Stats" src="https://raw.githubusercontent.com/NotKirzu/NotKirzu/main/kirzu-stats-card/default/0-profile-details.svg">
+	<p align="center">
+		<img width="100%" alt="GitHub Stats" src="https://raw.githubusercontent.com/NotKirzu/NotKirzu/main/kirzu-stats-card/default/0-profile-details.svg">
+	</p>
 </a>
 <a href="#" title="Discord Activity">
 	<img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/686766483350880351?idleMessage=Hello?%20Is%20anyone%20there?&borderRadius=5px&bg=18191c">
