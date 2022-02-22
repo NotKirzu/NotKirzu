@@ -45,7 +45,7 @@ class Card {
             .attr('stop-color', '#ff02ef');
         gradient
             .append('stop')
-            .attr('offset', '50%')
+            .attr('offset', '25%')
             .attr('stop-color', '#c901f4');
         gradient
             .append('stop')
@@ -59,8 +59,6 @@ class Card {
             .attr('ry', 5)
             .attr('height', '98%')
             .attr('width', '98%')
-            .attr('stroke', `${theme.stroke_color}`)
-            .attr('stroke-width', '1')
             .attr('fill', 'url(#grad)')
             .attr('stroke-opacity', 1);
 
