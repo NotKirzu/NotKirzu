@@ -14,5 +14,5 @@
 	<img width="50%" align="left" alt="GitHub Stats" src="https://cards.kirzu.ga/api?username=NotKirzu&bg_color=30,ff02ef,c901f4,4f00ff&icon_color=fff&title_color=fff&text_color=fff&show_icons=true&border_radius=5&custom_title=My%20Stats%20OwO&hide_border=true">
 </a>
 <a href="#" title="How many time I spend coding">
-	<img width="50%" align="left" alt="Coding stats" src="https://cards.kirzu.ga/api/wakatime?username=Kirzu&bg_color=30,ff02ef,c901f4,4f00ff&title_color=fff&text_color=ffffff&border_radius=5&custom_title=Coding%20time!&layout=default&hide_border=true">
+	<img width="50%" align="left" alt="Coding stats" src="https://cards.kirzu.ga/api/wakatime?username=Kirzu&bg_color=30,ff02ef,c901f4,4f00ff&title_color=fff&text_color=cdd9e5&border_radius=5&custom_title=Coding%20time!&layout=default&hide_border=true">
 </a>
