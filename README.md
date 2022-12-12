@@ -1,5 +1,6 @@
 <div align="center">
 	<h2>I'm Kirzu! ✨</h2>
+	<p><code>16y old, developer, gamer, translator</code></p>
 	<a href="https://twitter.com/nKxrzu">
 		<img alt="my twitter" src="https://img.shields.io/static/v1?label=my%20twitter%3A&message=@nKxrzu&color=1DA1F2&logo=Twitter&logoColor=1DA1F2" />
 	</a>
