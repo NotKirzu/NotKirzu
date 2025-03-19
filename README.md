@@ -1,11 +1,11 @@
 <div align="center">
 	<h2>I'm Kirzu! ✨</h2>
-	<p><code>18y old, developer, gamer, translator</code></p>
+	<p><code>19y old, developer, gamer, translator</code></p>
 	<a href="https://twitter.com/nKxrzu">
 		<img alt="my twitter" src="https://img.shields.io/static/v1?label=my%20twitter%3A&message=@nKxrzu&color=1DA1F2&logo=Twitter&logoColor=1DA1F2" />
 	</a>
-	<a href="https://instagram.com/riick.nt">
-		<img alt="my instagram" src="https://img.shields.io/static/v1?label=my%20instagram%3A&message=@kxrz.h&color=E4405F&logo=Instagram" />
+	<a href="https://instagram.com/k.qzt">
+		<img alt="my instagram" src="https://img.shields.io/static/v1?label=my%20instagram%3A&message=@k.qzt&color=E4405F&logo=Instagram" />
 	</a>
 	<img alt="my pronouns" src="https://img.shields.io/endpoint?color=%23fff&label=my%20pronouns%3A&logo=handshake&logoColor=%23fff&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6396950f95ed6674fbc90f12" />
 	<a href="https://wakatime.com/@Kirzu" target="_blank">
